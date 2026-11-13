@@ -23,4 +23,9 @@ Checked using hr.duplicated().sum() and hr.isnull().sum(). The dataset contains 
 
 ③ Chest Pain Type vs. Heart DiseaseVisualization: A count plot breaking down chest pain types (ATA, NAP, ASY, TA) against the target variable.   Insight: Patients with heart disease are mostly found in the ASY (Asymptomatic) category, while patients without heart disease are predominantly in the ATA (Atypical Angina) and NAP (Non-Anginal Pain) categories.
 
-④ Cholesterol Distribution by Heart DiseaseVisualization: A box plot comparing cholesterol levels across heart disease classes.   Insight: The median cholesterol level is roughly 225 for patients without heart disease and 220 for patients with heart disease.   Project SummaryGoal: Predict the presence of heart disease using clinical attributes and Logistic Regression.   Status: Objectives, exploratory analysis, and feature visualization steps have been successfully mapped out and executed in your notebook structure.
+④ Cholesterol Distribution by Heart DiseaseVisualization: A box plot comparing cholesterol levels across heart disease classes.   Insight: The median cholesterol level is roughly 225 for patients without heart disease and 220 for patients with heart disease.   
+
+### Project SummaryGoal: 
+Predict the presence of heart disease using clinical attributes and Logistic Regression.   Status: Objectives, exploratory analysis, and feature visualization steps have been successfully mapped out and executed in your notebook structure.
+
+
