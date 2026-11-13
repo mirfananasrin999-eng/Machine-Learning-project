@@ -3,8 +3,7 @@
 The dataset contains patient health and clinical measurements with 918 rows and 12 columns. There are no missing values in the 
 numerical columns.  
 
-### Target Variable (HeartDisease): Approximately 55.34% of the records belong to class 1 (presence of heart disease), while 
-44.66% belong to class 0. 
+### Target Variable (HeartDisease): Approximately 55.34% of the records belong to class 1 (presence of heart disease), while 44.66% belong to class 0. 
 
 Key Statistics:Age: Ranges from 28 to 77 years (Average: 53.51 years). 
 
